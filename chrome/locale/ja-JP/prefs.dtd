@@ -1,0 +1,109 @@
+<!ENTITY prefPaneGeneral.label         "一般">
+<!ENTITY prefPaneAccounts.label         "アカウント">
+<!ENTITY preferencesDefaultTitle.label  "設定">
+
+<!ENTITY updateIntervalPref.label         "更新間隔"> 
+<!ENTITY updateIntervalPref.accesskey       "U"> 
+
+<!ENTITY  preferencesCloseButton.label            "閉じる">
+<!ENTITY  preferencesCloseButton.accesskey        "C">
+
+<!ENTITY twoMinutesPref.label         "2分">
+<!ENTITY threeMinutesPref.label         "3分">
+<!ENTITY fiveMinutesPref.label         "5分">
+<!ENTITY tenMinutesPref.label         "10分">
+
+<!ENTITY animatedAvatarPref.label         "アイコンのアニメ表示"> 
+<!ENTITY animatedAvatarPref.accesskey       "A"> 
+
+<!ENTITY animateOncePref.label         "1回のみ">
+<!ENTITY animateNeverPref.label         "アニメ表示しない">
+<!ENTITY animateAlwaysPref.label         "繰り返す">
+
+<!ENTITY retweetFormatPref.label         "RT の書式"> 
+<!ENTITY retweetFormatPref.accesskey       "R"> 
+<!ENTITY retweetFormatRtPref.label         "RT @ユーザー名: 元発言">
+<!ENTITY retweetFormatViaPref.label         "元発言 (via @ユーザー名)">
+
+<!ENTITY hashtagDestinationPref.label	"ハッシュタグクリック時の動作">
+<!ENTITY hashtagDestinationPref.accesskey	"H">
+<!ENTITY hashtagDestinationHashtagsOrgPref.label "hashtags.org で検索">
+<!ENTITY hashtagDestinationSearchTwitterComPref.label "search.twitter.com で検索">
+
+<!ENTITY shorturlDestinationPref.label	"ショート URL への変換">
+<!ENTITY shorturlDestinationPref.accesskey	"U">
+<!ENTITY shorturlDestinationIdGdPref.label "is.gd">
+<!ENTITY shorturlDestinationTinyUrlComPref.label "TinyURL.com">
+
+<!ENTITY windowTitlePref.label	"ウィンドウ タイトル">
+<!ENTITY windowTitlePref.accesskey	"T">
+<!ENTITY windowTitleAppNameOnlyPref.label "アプリケーション名のみ">
+<!ENTITY windowTitleUnreadDirectOnlyPref.label "DM の未読数を表示">
+<!ENTITY windowTitleUnreadDirectAndMentionsPref.label "DM と返信の未読数を表示">
+<!ENTITY windowTitleAllUnreadPref.label "未読のツイート数を表示">
+
+<!ENTITY retweetMethodPref.label	"RT方法">
+<!ENTITY retweetMethodPref.accesskey	"M">
+<!ENTITY retweetMethodAskPref.label	"常に訊ねる">
+<!ENTITY retweetMethodAutoPref.label	"自動 ('公式')">
+<!ENTITY retweetMethodManualPref.label	"手動 ('非公式')">
+
+<!ENTITY boldfaceNamePref.label	"表示する名前">
+<!ENTITY boldfaceNamePref.accesskey	"E">
+<!ENTITY boldfaceNameRealNamePref.label "プロフィール名">
+<!ENTITY boldfaceNameHandlePref.label "ユーザー名">
+
+<!ENTITY autoMarkOldTweetsAsRead.label         "Auto-mark old tweets as read">
+<!ENTITY autoClosePostArea.label         "投稿エリアを自動的に隠す">
+<!ENTITY returnToPost.label         "改行キーで投稿する">
+
+<!ENTITY prefForgetAccount.label         "Forget Saved Account Data">
+
+<!ENTITY prefPaneAlerts.label "Notifications">
+<!ENTITY generalVisualAlert.label "Visual Notification on every update">
+<!ENTITY generalVisualAlertSticky.label "Stay on Screen">
+
+<!ENTITY prefPaneFilter.label "Filters">
+<!ENTITY filterExplain.label "Select which services you want hidden in your timeline.">
+
+<!ENTITY mentionVisualAlert.label "Visual Notification whenever mentioned">
+<!ENTITY mentionVisualAlertSticky.label "Stay on Screen">
+
+<!ENTITY directVisualAlert.label "Visual Notification of Direct Messages">
+<!ENTITY directVisualAlertSticky.label "Stay on Screen">
+<!ENTITY growlExplain.label "Visual notifications require Growl. You can get Growl from http://growl.info.">
+<!ENTITY libnotifyExplain.label "Visual notifications require libnotify and notify-send.">
+
+<!ENTITY prefPaneProxy.label "インターネット接続">
+
+<!ENTITY  manualTypeRadio.label         "手動でプロキシを設定する:">
+<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  autoTypeRadio.label           "自動プロキシ設定スクリプト URL:">
+<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  noProxyTypeRadio.label        "プロキシを使用しない">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  systemTypeRadio.label         "システムのプロキシ設定を利用する">
+<!ENTITY  systemTypeRadio.accesskey     "u">
+
+<!ENTITY  port.label                    "ポート:">
+<!ENTITY  proxyTitle.label              "インターネット接続に使用するプロキシの設定">
+<!ENTITY  http.label                    "HTTP プロキシ:">
+<!ENTITY  http.accesskey                "H">
+<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  ssl.label                     "SSL プロキシ:">
+<!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  socks.label                   "SOCKS ホスト:">
+<!ENTITY  socks.accesskey               "C">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  WPADTypeRadio.label           "このネットワークのプロキシ設定を自動検出する">
+<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  reload.label                  "再読み込み">
+<!ENTITY  reload.accesskey              "e">
+
+
+ 
