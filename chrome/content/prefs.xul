@@ -47,10 +47,10 @@ THE SOFTWARE.
 		<vbox>
 			<hbox style="padding-bottom:10px;">
 				<box width="200" align="right">
-					<label control="menulist_updateInterval" value="&updateIntervalPref.label;" />
+					<label control="menulist_updateInterval" value="&updateIntervalPref.label;"
+					 accesskey="&updateIntervalPref.accesskey;" />
 				</box>
-			    <menulist id="menulist_updateInterval" preference="updateInterval"
-			              accesskey="&updateIntervalPref.accesskey;">
+			    <menulist id="menulist_updateInterval" preference="updateInterval">
 					<menupopup>
 						<menuitem label="&twoMinutesPref.label;" value="120000"/>
 						<menuitem label="&threeMinutesPref.label;" value="180000"/>
@@ -62,10 +62,10 @@ THE SOFTWARE.
 			
 			<hbox style="padding-bottom:10px;">
 				<box width="200" align="right">
-					<label control="menulist_retweetFormat" value="&retweetFormatPref.label;" /> 
+					<label control="menulist_retweetFormat" value="&retweetFormatPref.label;"
+					 accesskey="&retweetFormatPref.accesskey;" /> 
 				</box>
-				<menulist id="menulist_retweetFormat" preference="retweetFormat"
-			              accesskey="&retweetFormatPref.accesskey;">
+				<menulist id="menulist_retweetFormat" preference="retweetFormat">
 					<menupopup>
 						<menuitem label="&retweetFormatRtPref.label;" value="rt"/>
 						<menuitem label="&retweetFormatViaPref.label;" value="via"/>
@@ -75,10 +75,10 @@ THE SOFTWARE.
 
 			<hbox style="padding-bottom:10px;">
 				<box width="200" align="right">
-					<label control="menulist_hashtagDestination" value="&hashtagDestinationPref.label;" /> 
+					<label control="menulist_hashtagDestination" value="&hashtagDestinationPref.label;"
+					 accesskey="&hashtagDestinationPref.accesskey;" /> 
 				</box>
-				<menulist id="menulist_hashtagDestination" preference="hashtagDestination"
-			              accesskey="&hashtagDestinationPref.accesskey;">
+				<menulist id="menulist_hashtagDestination" preference="hashtagDestination">
 					<menupopup>
 						<menuitem label="&hashtagDestinationHashtagsOrgPref.label;" value="hashtags.org"/>
 						<menuitem label="&hashtagDestinationSearchTwitterComPref.label;" value="search.twitter.com"/>
@@ -87,10 +87,10 @@ THE SOFTWARE.
 		    </hbox>
 		    <hbox style="padding-bottom:10px;">
 				<box width="200" align="right">
-					<label control="menulist_shorturlDestination" value="&shorturlDestinationPref.label;" /> 
+					<label control="menulist_shorturlDestination" value="&shorturlDestinationPref.label;"
+					 accesskey="&shorturlDestinationPref.accesskey;" /> 
 				</box>
-				<menulist id="menulist_shorturlDestination" preference="shorturlDestination"
-			              accesskey="&shorturlDestinationPref.accesskey;">
+				<menulist id="menulist_shorturlDestination" preference="shorturlDestination">
 					<menupopup>
 						<menuitem label="&shorturlDestinationIdGdPref.label;" value="is.gd"/>
 						<menuitem label="&shorturlDestinationTinyUrlComPref.label;" value="tinyurl.com"/>
@@ -100,10 +100,10 @@ THE SOFTWARE.
 
 			<hbox style="padding-bottom:10px;">
 				<box width="200" align="right">
-					<label control="menulist_windowTitle" value="&windowTitlePref.label;" /> 
+					<label control="menulist_windowTitle" value="&windowTitlePref.label;"
+					 accesskey="&windowTitlePref.accesskey;" /> 
 				</box>
-				<menulist id="menulist_windowTitle" preference="windowTitle"
-			              accesskey="&windowTitlePref.accesskey;">
+				<menulist id="menulist_windowTitle" preference="windowTitle">
 					<menupopup>
 						<menuitem label="&windowTitleAppNameOnlyPref.label;" value="buzzbird"/>
 						<menuitem label="&windowTitleUnreadDirectOnlyPref.label;" value="direct"/>
@@ -115,10 +115,10 @@ THE SOFTWARE.
 
 			<hbox style="padding-bottom:10px;">
 				<box width="200" align="right">
-					<label control="menulist_boldfaceName" value="&boldfaceNamePref.label;" /> 
+					<label control="menulist_boldfaceName" value="&boldfaceNamePref.label;"
+					 accesskey="&boldfaceNamePref.accesskey;" /> 
 				</box>
-				<menulist id="menulist_boldfaceName" preference="boldfaceName"
-			              accesskey="&boldfaceNamePref.accesskey;">
+				<menulist id="menulist_boldfaceName" preference="boldfaceName">
 					<menupopup>
 						<menuitem label="&boldfaceNameRealNamePref.label;" value="realname"/>
 						<menuitem label="&boldfaceNameHandlePref.label;" value="handle"/>
