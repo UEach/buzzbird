@@ -109,7 +109,7 @@ THE SOFTWARE.
 	<!-- ======== -->
 	<menubar id="menubarid">
 		<!-- Menu item IDs were chosen quite intentionally... see https://developer.mozilla.org/en/XULRunner/MacFAQ -->
-		<menu id="filemenuid" label="File">
+		<menu id="filemenuid" label="&fileMenu.label;" accesskey="&fileMenu.accesskey;">
 		  <menupopup id="menu_FilePopup">
 	    	    <menuitem id="menu_FileQuitItem" 
 	    			  label="&quitApplicationCmdMac.label;"
@@ -185,7 +185,7 @@ THE SOFTWARE.
 			</menupopup>
 		</menu>
 
-		<menu id="helpmenuid" label="Help">
+		<menu id="helpmenuid" label="&helpMenu.label;" accesskey="&helpMenu.accesskey;">
 		  <menupopup id="menu_HelpPopup">
 				<menuitem id="aboutName"
 		                  accesskey="&aboutCmd.accesskey;"
