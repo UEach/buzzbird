@@ -92,9 +92,13 @@
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Show All">
 
+<!ENTITY fileMenu.label         "File"> 
+<!ENTITY fileMenu.accesskey       "F"> 
 <!ENTITY quitApplicationCmdMac.label    "Quit Buzzbird">
 <!ENTITY quitApplicationCmdMac.key      "Q">
 
+<!ENTITY helpMenu.label         "Help"> 
+<!ENTITY helpMenu.accesskey       "H"> 
 <!ENTITY aboutCmd.label           "About Buzzbird">
 <!ENTITY aboutCmd.accesskey       "A">
 <!ENTITY visitSiteCmd.label           "Visit Buzzbird Homepage">
